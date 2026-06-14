@@ -5,7 +5,7 @@ Current Role
 Team Lead, Premium Help desk
 Industry
 Banking and Financial Services
-Career Goal
+My Career Goal
 To build a career in cybersecurity by leveraging my IT support and leadership experience to contribute to securing systems,data and business operations.
 Skills Being Developed
 - Cybersecurity Fundamentals
@@ -17,11 +17,13 @@ Skills Being Developed
 - SIEM Tools
 - Risk Assessment
 - Threat Detection
+
+  
 Cybersecurity Projects
 Project 1: Security Foundations
-Objective
+My Objectives includes:
 Understand the core principles of cybersecurity and risk management.
-Topics Covered
+Topics already Covered
 -CIA Triad
 -Risk management
 -Security controls
@@ -30,6 +32,7 @@ Topics Covered
 - Understanding confidentiality,integrity and availability
 - Identifying common cyber threats
 - Applying security best practices
+
 
 
   
