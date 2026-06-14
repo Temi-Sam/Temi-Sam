@@ -23,11 +23,13 @@ Cybersecurity Projects
 Project 1: Security Foundations
 My Objectives includes:
 Understand the core principles of cybersecurity and risk management.
+
+
 Topics already Covered
 -CIA Triad
 -Risk management
 -Security controls
-- Threats and vulnerbilities
+- Threats and vulnerabilities
   Key Learning Outcomes
 - Understanding confidentiality,integrity and availability
 - Identifying common cyber threats
