@@ -36,6 +36,11 @@ Topics already Covered
 - Applying security best practices
 
 
+Project 2: Controls and Compliance Assessment – Botium Toys
+
+Performed a comprehensive controls and compliance assessment for Botium Toys, a fictional organization, by reviewing its risk assessment report and evaluating existing security controls against industry standards and regulatory requirements. Identified security gaps related to access management, including the lack of least privilege and separation of duties controls, which increased the risk of unauthorized access to cardholder data and customers' personally identifiable information (PII/SPII). Assessed deficiencies in data protection practices and determined that sensitive credit card information stored, processed, and transmitted internally lacked encryption, exposing the organization to potential confidentiality risks.
+
+Evaluated the organization's adherence to PCI DSS, GDPR, and SOC compliance requirements and documented findings to support risk mitigation efforts. Provided recommendations to strengthen access controls, implement encryption, improve data protection practices, and enhance the overall security posture of the organization. This project demonstrated practical experience in risk assessment, security controls evaluation, compliance analysis, and developing recommendations aligned with cybersecurity best practices.[Controls and compliance checklist.pdf](https://github.com/user-attachments/files/29134350/Controls.and.compliance.checklist.pdf)
 
   
 <!--
